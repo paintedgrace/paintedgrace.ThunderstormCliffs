@@ -1,0 +1,9 @@
+{
+  "InstanceId": "Thunderstorm_Instance",
+  "Description": {
+    "DisplayName": "Thunderstorm Cliffs",
+    "FlavorText": "Explore treacherous cliffs, fight powerful foes, and search for rare gear and items amidst the towering Thunderstorm Cliffs.",
+    "ThemeColor": "#70a317",
+    "SplashImage": "DefaultArtwork.png"
+  }
+}

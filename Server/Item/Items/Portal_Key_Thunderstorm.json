@@ -1,0 +1,77 @@
+{
+  "TranslationProperties": {
+    "Name": "Fragment of Orbis: Thunderstorm Cliffs",
+    "Description": "There's glory to be found in the mighty cliffs, if you can survive their dangers."
+  },
+  "Icon": "Icons/ItemsGenerated/PortalKey_Howling_Sands.png",
+  "Categories": [
+    "Blocks.Portals"
+  ],
+  "PortalKey": {
+    "PortalType": "Thunderstorm_Portal",
+    "TimeLimitSeconds": 600
+  },
+  "BlockType": {
+    "DrawType": "Model",
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Miscellaneous/Portal_Shard.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Miscellaneous/Portal_Shard_Texture.png",
+        "Weight": 1
+      }
+    ]
+  },
+  "Recipe": {
+    "TimeSeconds": 1,
+    "KnowledgeRequired": false,
+    "Input": [
+      {
+        "ItemId": "Ingredient_Bar_Adamantite",
+        "Quantity": 20
+      },
+      {
+        "ItemId": "Ingredient_Voidheart",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "Ingredient_Crystal_Yellow",
+        "Quantity": 10
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Arcanebench",
+        "Type": "Crafting",
+        "Categories": [
+          "Arcane_Portals"
+        ]
+      }
+    ],
+    "RequiredMemoriesLevel": 5,
+    "OutputQuantity": 1
+  },
+  "PlayerAnimationsId": "Item",
+  "Tags": {
+    "Type": [
+      "Portal",
+      "Temporary"
+    ]
+  },
+  "Quality": "Rare",
+  "ItemLevel": 51,
+  "IconProperties": {
+    "Scale": 1.4,
+    "Rotation": [
+      22.5,
+      137.0,
+      22.5
+    ],
+    "Translation": [
+      0.0,
+      1.0
+    ]
+  },
+  "MaxStack": 100
+}

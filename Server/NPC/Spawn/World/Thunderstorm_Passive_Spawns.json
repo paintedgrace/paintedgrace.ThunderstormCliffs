@@ -1,0 +1,37 @@
+{
+  "NPCs": [
+    {
+      "Id": "Mouflon",
+      "Weight": 17,
+      "SpawnBlockSet": "Rock",
+      "Flock": "Group_Tiny"
+    },
+    {
+      "Id": "Mouflon",
+      "Weight": 10,
+      "SpawnBlockSet": "Rock",
+      "Flock": "Parent_And_Young_75_25"
+    },
+    {
+      "Id": "Frog_Orange",
+      "Weight": 6,
+      "SpawnBlockSet": "Soil_Mud"
+    },
+    {
+      "Id": "Vulture",
+      "Weight": 1,
+      "SpawnBlockSet": "Birds"
+    },
+    {
+      "Id": "Raven",
+      "Weight": 2
+    }
+  ],
+  "Environments": [
+    "Thunderstorm_Cliffs"
+  ],
+  "DayTimeRange": [
+    6,
+    18
+  ]
+}

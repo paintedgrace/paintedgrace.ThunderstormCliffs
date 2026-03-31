@@ -1,0 +1,27 @@
+{
+  "Environments": [
+    "Thunderstorm_Cliffs"
+  ],
+  "NPCs": [
+    {
+      "Id": "Spirit_Thunder",
+      "Weight": 8,
+      "SpawnBlockSet": "Rock"
+    },
+    {
+      "Id": "Zombie_Aberrant_Big",
+      "Weight": 3,
+      "SpawnBlockSet": "Rock"
+    },
+    {
+      "Id": "Wolf_Black",
+      "Weight": 10,
+      "SpawnBlockSet": "Grass",
+      "Flock": "Pack_Small"
+    }
+  ],
+  "DayTimeRange": [
+    4,
+    22
+  ]
+}

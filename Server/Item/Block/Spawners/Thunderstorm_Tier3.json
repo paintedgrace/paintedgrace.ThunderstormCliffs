@@ -1,0 +1,21 @@
+{
+  "Entries": [
+    {
+      "State": {
+        "Custom": false,
+        "AllowViewing": true,
+        "Type": "container",
+        "Droplist": "Thunderstorm_Tier3"
+      },
+      "Weight": 100,
+      "Name": "Furniture_Human_Ruins_Chest_Small",
+      "Components": {
+        "Components": {
+          "ItemContainerBlock": {
+            "Droplist": "Thunderstorm_Tier3"
+          }
+        }
+      }
+    }
+  ]
+}

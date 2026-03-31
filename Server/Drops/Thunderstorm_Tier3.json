@@ -1,0 +1,418 @@
+{
+  "Container": {
+    "Type": "Multiple",
+    "Containers": [
+      {
+        "Type": "Choice",
+        "Weight": 100,
+        "RollsMin": 1,
+        "RollsMax": 4,
+        "Containers": [
+          {
+            "Type": "Single",
+            "Weight": 10,
+            "Item": {
+              "ItemId": "Ore_Adamantite",
+              "QuantityMin": 1,
+              "QuantityMax": 4
+            }
+          },
+          {
+            "Type": "Single",
+            "Weight": 8,
+            "Item": {
+              "QuantityMin": 1,
+              "QuantityMax": 3,
+              "ItemId": "Ingredient_Bar_Adamantite"
+            }
+          },
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Ingredient_Fabric_Scrap_Cindercloth",
+              "QuantityMin": 1,
+              "QuantityMax": 5
+            },
+            "Weight": 15
+          },
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Weapon_Arrow_Crude",
+              "QuantityMin": 5,
+              "QuantityMax": 10
+            },
+            "Weight": 10
+          },
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Ingredient_Leather_Heavy",
+              "QuantityMin": 1,
+              "QuantityMax": 3
+            },
+            "Weight": 8
+          },
+          {
+            "Type": "Single",
+            "Weight": 10,
+            "Item": {
+              "ItemId": "Ingredient_Hide_Storm",
+              "QuantityMin": 1,
+              "QuantityMax": 3
+            }
+          },
+          {
+            "Type": "Single",
+            "Weight": 15,
+            "Item": {
+              "ItemId": "Ingredient_Leather_Storm",
+              "QuantityMin": 1,
+              "QuantityMax": 4
+            }
+          },
+          {
+            "Type": "Single",
+            "Weight": 8,
+            "Item": {
+              "ItemId": "Ingredient_Bar_Mithril",
+              "QuantityMin": 1,
+              "QuantityMax": 3
+            }
+          },
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Ingredient_Fabric_Scrap_Stormsilk",
+              "QuantityMin": 1,
+              "QuantityMax": 5
+            },
+            "Weight": 8
+          },
+          {
+            "Type": "Single",
+            "Weight": 6,
+            "Item": {
+              "ItemId": "Ingredient_Void_Essence",
+              "QuantityMin": 1,
+              "QuantityMax": 5
+            }
+          }
+        ]
+      },
+      {
+        "Type": "Choice",
+        "RollsMin": 1,
+        "RollsMax": 2,
+        "Containers": [
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Glider"
+            },
+            "Weight": 5
+          },
+          {
+            "Type": "Single",
+            "Weight": 4,
+            "Item": {
+              "ItemId": "Weapon_Crossbow_Ancient_Steel"
+            }
+          },
+          {
+            "Type": "Choice",
+            "Weight": 10,
+            "RollsMin": 1,
+            "RollsMax": 1,
+            "Containers": [
+              {
+                "Type": "Single",
+                "Weight": 20,
+                "Item": {
+                  "ItemId": "Tool_Pickaxe_Adamantite"
+                }
+              },
+              {
+                "Type": "Single",
+                "Weight": 20,
+                "Item": {
+                  "ItemId": "Tool_Hatchet_Adamantite"
+                }
+              },
+              {
+                "Type": "Single",
+                "Weight": 10,
+                "Item": {
+                  "ItemId": "Weapon_Daggers_Adamantite"
+                }
+              },
+              {
+                "Type": "Single",
+                "Weight": 10,
+                "Item": {
+                  "ItemId": "Weapon_Sword_Adamantite"
+                }
+              },
+              {
+                "Type": "Single",
+                "Weight": 10,
+                "Item": {
+                  "ItemId": "Weapon_Axe_Adamantite"
+                }
+              },
+              {
+                "Type": "Single",
+                "Weight": 10,
+                "Item": {
+                  "ItemId": "Weapon_Mace_Adamantite"
+                }
+              },
+              {
+                "Type": "Single",
+                "Weight": 5,
+                "Item": {
+                  "ItemId": "Weapon_Longsword_Adamantite"
+                }
+              },
+              {
+                "Type": "Single",
+                "Weight": 10,
+                "Item": {
+                  "ItemId": "Armor_Adamantite_Chest"
+                }
+              },
+              {
+                "Type": "Single",
+                "Weight": 10,
+                "Item": {
+                  "ItemId": "Armor_Adamantite_Hands"
+                }
+              },
+              {
+                "Type": "Single",
+                "Weight": 10,
+                "Item": {
+                  "ItemId": "Armor_Adamantite_Head"
+                }
+              },
+              {
+                "Type": "Single",
+                "Weight": 10,
+                "Item": {
+                  "ItemId": "Armor_Adamantite_Legs"
+                }
+              }
+            ]
+          },
+          {
+            "Type": "Choice",
+            "Weight": 15,
+            "Containers": [
+              {
+                "Type": "Single",
+                "Weight": 10,
+                "Item": {
+                  "ItemId": "Armor_Mithril_Chest"
+                }
+              },
+              {
+                "Type": "Single",
+                "Weight": 10,
+                "Item": {
+                  "ItemId": "Armor_Mithril_Hands"
+                }
+              },
+              {
+                "Type": "Single",
+                "Weight": 10,
+                "Item": {
+                  "ItemId": "Armor_Mithril_Head"
+                }
+              },
+              {
+                "Type": "Single",
+                "Weight": 10,
+                "Item": {
+                  "ItemId": "Armor_Mithril_Legs"
+                }
+              },
+              {
+                "Type": "Single",
+                "Item": {
+                  "ItemId": "Tool_Hatchet_Mithril"
+                },
+                "Weight": 10
+              },
+              {
+                "Type": "Single",
+                "Weight": 10,
+                "Item": {
+                  "ItemId": "Tool_Pickaxe_Mithril"
+                }
+              },
+              {
+                "Type": "Single",
+                "Weight": 6,
+                "Item": {
+                  "ItemId": "Weapon_Axe_Mithril"
+                }
+              },
+              {
+                "Type": "Single",
+                "Weight": 6,
+                "Item": {
+                  "ItemId": "Weapon_Daggers_Mithril"
+                }
+              },
+              {
+                "Type": "Single",
+                "Weight": 6,
+                "Item": {
+                  "ItemId": "Weapon_Sword_Mithril"
+                }
+              },
+              {
+                "Type": "Single",
+                "Weight": 6,
+                "Item": {
+                  "ItemId": "Weapon_Shortbow_Mithril"
+                }
+              },
+              {
+                "Type": "Single",
+                "Weight": 6,
+                "Item": {
+                  "ItemId": "Weapon_Battleaxe_Mithril"
+                }
+              }
+            ]
+          },
+          {
+            "Type": "Empty",
+            "Weight": 10
+          }
+        ]
+      },
+      {
+        "Type": "Choice",
+        "RollsMin": 1,
+        "RollsMax": 2,
+        "Containers": [
+          {
+            "Type": "Single",
+            "Weight": 7,
+            "Item": {
+              "QuantityMin": 1,
+              "QuantityMax": 3,
+              "ItemId": "Plant_Seeds_Cotton"
+            }
+          },
+          {
+            "Type": "Single",
+            "Weight": 7,
+            "Item": {
+              "QuantityMin": 1,
+              "QuantityMax": 3,
+              "ItemId": "Plant_Seeds_Rice"
+            }
+          },
+          {
+            "Type": "Single",
+            "Weight": 2,
+            "Item": {
+              "ItemId": "Plant_Seeds_Stamina2",
+              "QuantityMin": 1,
+              "QuantityMax": 2
+            }
+          },
+          {
+            "Type": "Single",
+            "Weight": 15,
+            "Item": {
+              "ItemId": "Food_Wildmeat_Raw",
+              "QuantityMin": 1,
+              "QuantityMax": 3
+            }
+          },
+          {
+            "Type": "Single",
+            "Weight": 15,
+            "Item": {
+              "ItemId": "Food_Kebab_Vegetable",
+              "QuantityMin": 1,
+              "QuantityMax": 3
+            }
+          },
+          {
+            "Type": "Single",
+            "Weight": 15,
+            "Item": {
+              "ItemId": "Food_Kebab_Meat",
+              "QuantityMin": 1,
+              "QuantityMax": 3
+            }
+          },
+          {
+            "Type": "Single",
+            "Weight": 5,
+            "Item": {
+              "ItemId": "Potion_Stamina_Greater"
+            }
+          },
+          {
+            "Type": "Single",
+            "Weight": 5,
+            "Item": {
+              "ItemId": "Potion_Signature_Greater"
+            }
+          },
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Potion_Health_Greater",
+              "QuantityMax": 2
+            },
+            "Weight": 10
+          },
+          {
+            "Type": "Empty",
+            "Weight": 20
+          }
+        ]
+      },
+      {
+        "Type": "Choice",
+        "RollsMax": 3,
+        "Containers": [
+          {
+            "Type": "Single",
+            "Weight": 20,
+            "Item": {
+              "ItemId": "Wood_Stormbark_Trunk",
+              "QuantityMin": 3,
+              "QuantityMax": 10
+            }
+          },
+          {
+            "Type": "Single",
+            "Weight": 20,
+            "Item": {
+              "ItemId": "Wood_Sallow_Trunk",
+              "QuantityMin": 3,
+              "QuantityMax": 10
+            }
+          },
+          {
+            "Type": "Single",
+            "Weight": 20,
+            "Item": {
+              "ItemId": "Wood_Wisteria_Wild_Trunk",
+              "QuantityMin": 3,
+              "QuantityMax": 10
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
