@@ -4144,12 +4144,6 @@
     },
     {
       "x": -19,
-      "y": -5,
-      "z": 13,
-      "name": "Empty"
-    },
-    {
-      "x": -19,
       "y": -4,
       "z": 13,
       "name": "Rock_Basalt_Brick"
@@ -4207,18 +4201,6 @@
       "y": -7,
       "z": 14,
       "name": "Rock_Basalt"
-    },
-    {
-      "x": -19,
-      "y": -6,
-      "z": 14,
-      "name": "Empty"
-    },
-    {
-      "x": -19,
-      "y": -5,
-      "z": 14,
-      "name": "Empty"
     },
     {
       "x": -19,
@@ -5890,12 +5872,6 @@
     },
     {
       "x": -18,
-      "y": -5,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -18,
       "y": -4,
       "z": 1,
       "name": "Rock_Basalt_Brick"
@@ -5959,12 +5935,6 @@
       "y": -6,
       "z": 2,
       "name": "Rock_Basalt"
-    },
-    {
-      "x": -18,
-      "y": -5,
-      "z": 2,
-      "name": "Empty"
     },
     {
       "x": -18,
@@ -6245,18 +6215,6 @@
     },
     {
       "x": -18,
-      "y": -6,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": -18,
-      "y": -5,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": -18,
       "y": -4,
       "z": 6,
       "name": "Rock_Basalt_Brick"
@@ -6317,18 +6275,6 @@
     },
     {
       "x": -18,
-      "y": -6,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": -18,
-      "y": -5,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": -18,
       "y": -4,
       "z": 7,
       "name": "Rock_Basalt_Brick"
@@ -6356,12 +6302,6 @@
       "y": -12,
       "z": 8,
       "name": "Rock_Basalt"
-    },
-    {
-      "x": -18,
-      "y": -11,
-      "z": 8,
-      "name": "Empty"
     },
     {
       "x": -18,
@@ -6433,19 +6373,9 @@
       "x": -18,
       "y": -11,
       "z": 9,
-      "name": "Empty"
-    },
-    {
-      "x": -18,
-      "y": -10,
-      "z": 9,
-      "name": "Empty"
-    },
-    {
-      "x": -18,
-      "y": -9,
-      "z": 9,
-      "name": "Empty"
+      "name": "Portal_Device",
+      "filler": 1023,
+      "rotation": 1
     },
     {
       "x": -18,
@@ -6506,12 +6436,6 @@
       "y": -11,
       "z": 10,
       "name": "Rock_Basalt"
-    },
-    {
-      "x": -18,
-      "y": -10,
-      "z": 10,
-      "name": "Empty"
     },
     {
       "x": -18,
@@ -6521,18 +6445,6 @@
     },
     {
       "x": -18,
-      "y": -8,
-      "z": 10,
-      "name": "Empty"
-    },
-    {
-      "x": -18,
-      "y": -7,
-      "z": 10,
-      "name": "Empty"
-    },
-    {
-      "x": -18,
       "y": -6,
       "z": 10,
       "name": "Rock_Basalt"
@@ -6581,27 +6493,9 @@
     },
     {
       "x": -18,
-      "y": -10,
-      "z": 11,
-      "name": "Empty"
-    },
-    {
-      "x": -18,
-      "y": -9,
-      "z": 11,
-      "name": "Empty"
-    },
-    {
-      "x": -18,
       "y": -8,
       "z": 11,
       "name": "Rock_Basalt"
-    },
-    {
-      "x": -18,
-      "y": -7,
-      "z": 11,
-      "name": "Empty"
     },
     {
       "x": -18,
@@ -6749,18 +6643,6 @@
     },
     {
       "x": -18,
-      "y": -6,
-      "z": 13,
-      "name": "Empty"
-    },
-    {
-      "x": -18,
-      "y": -5,
-      "z": 13,
-      "name": "Empty"
-    },
-    {
-      "x": -18,
       "y": -4,
       "z": 13,
       "name": "Rock_Basalt_Brick"
@@ -6821,18 +6703,6 @@
     },
     {
       "x": -18,
-      "y": -6,
-      "z": 14,
-      "name": "Empty"
-    },
-    {
-      "x": -18,
-      "y": -5,
-      "z": 14,
-      "name": "Empty"
-    },
-    {
-      "x": -18,
       "y": -4,
       "z": 14,
       "name": "Rock_Basalt_Brick"
@@ -6884,12 +6754,6 @@
       "y": -8,
       "z": 15,
       "name": "Rock_Basalt"
-    },
-    {
-      "x": -18,
-      "y": -7,
-      "z": 15,
-      "name": "Empty"
     },
     {
       "x": -18,
@@ -7025,12 +6889,6 @@
       "y": -9,
       "z": 17,
       "name": "Rock_Basalt"
-    },
-    {
-      "x": -18,
-      "y": -8,
-      "z": 17,
-      "name": "Empty"
     },
     {
       "x": -18,
@@ -7112,18 +6970,6 @@
     },
     {
       "x": -18,
-      "y": -6,
-      "z": 18,
-      "name": "Empty"
-    },
-    {
-      "x": -18,
-      "y": -5,
-      "z": 18,
-      "name": "Empty"
-    },
-    {
-      "x": -18,
       "y": -4,
       "z": 18,
       "name": "Rock_Basalt_Brick"
@@ -7187,12 +7033,6 @@
       "y": -6,
       "z": 19,
       "name": "Rock_Basalt"
-    },
-    {
-      "x": -18,
-      "y": -5,
-      "z": 19,
-      "name": "Empty"
     },
     {
       "x": -18,
@@ -8549,12 +8389,6 @@
       "y": -6,
       "z": 1,
       "name": "Rock_Basalt"
-    },
-    {
-      "x": -17,
-      "y": -5,
-      "z": 1,
-      "name": "Empty"
     },
     {
       "x": -17,
@@ -8624,12 +8458,6 @@
     },
     {
       "x": -17,
-      "y": -5,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
       "y": -4,
       "z": 2,
       "name": "Rock_Basalt_Brick"
@@ -8688,18 +8516,6 @@
       "y": -7,
       "z": 3,
       "name": "Rock_Basalt"
-    },
-    {
-      "x": -17,
-      "y": -6,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -5,
-      "z": 3,
-      "name": "Empty"
     },
     {
       "x": -17,
@@ -8759,24 +8575,6 @@
     },
     {
       "x": -17,
-      "y": -7,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -6,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -5,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
       "y": -4,
       "z": 4,
       "name": "Rock_Basalt_Brick"
@@ -8837,18 +8635,6 @@
       "z": 5,
       "name": "Rock_Stone_Stalactite_Large",
       "rotation": 8
-    },
-    {
-      "x": -17,
-      "y": -6,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -5,
-      "z": 5,
-      "name": "Empty"
     },
     {
       "x": -17,
@@ -9082,31 +8868,9 @@
       "x": -17,
       "y": -11,
       "z": 9,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -10,
-      "z": 9,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -9,
-      "z": 9,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -8,
-      "z": 9,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -7,
-      "z": 9,
-      "name": "Empty"
+      "name": "Portal_Device",
+      "filler": 992,
+      "rotation": 1
     },
     {
       "x": -17,
@@ -9154,31 +8918,26 @@
       "x": -17,
       "y": -11,
       "z": 10,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -10,
-      "z": 10,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -9,
-      "z": 10,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -8,
-      "z": 10,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -7,
-      "z": 10,
-      "name": "Empty"
+      "name": "Portal_Device",
+      "components": {
+        "Components": {
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "5RPZJ2uQSJ2g+KZxfjqR+g==",
+              "$type": "04"
+            }
+          },
+          "Portal": {
+            "Config": {
+              "SpawningState": "Spawning",
+              "OnState": "Active",
+              "OffState": "default",
+              "ReturnBlockType": "Portal_Return"
+            }
+          }
+        }
+      },
+      "rotation": 1
     },
     {
       "x": -17,
@@ -9221,36 +8980,6 @@
       "y": -12,
       "z": 11,
       "name": "Rock_Basalt"
-    },
-    {
-      "x": -17,
-      "y": -11,
-      "z": 11,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -10,
-      "z": 11,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -9,
-      "z": 11,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -8,
-      "z": 11,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -7,
-      "z": 11,
-      "name": "Empty"
     },
     {
       "x": -17,
@@ -9299,12 +9028,6 @@
       "y": -11,
       "z": 12,
       "name": "Rock_Basalt"
-    },
-    {
-      "x": -17,
-      "y": -10,
-      "z": 12,
-      "name": "Empty"
     },
     {
       "x": -17,
@@ -9527,34 +9250,10 @@
     },
     {
       "x": -17,
-      "y": -9,
-      "z": 15,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -8,
-      "z": 15,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
       "y": -7,
       "z": 15,
       "name": "Rock_Stone_Stalactite_Small",
       "rotation": 8
-    },
-    {
-      "x": -17,
-      "y": -6,
-      "z": 15,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -5,
-      "z": 15,
-      "name": "Empty"
     },
     {
       "x": -17,
@@ -9585,36 +9284,6 @@
       "y": -12,
       "z": 16,
       "name": "Rock_Basalt"
-    },
-    {
-      "x": -17,
-      "y": -11,
-      "z": 16,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -10,
-      "z": 16,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -9,
-      "z": 16,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -8,
-      "z": 16,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -7,
-      "z": 16,
-      "name": "Empty"
     },
     {
       "x": -17,
@@ -9624,12 +9293,6 @@
     },
     {
       "x": -17,
-      "y": -5,
-      "z": 16,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
       "y": -4,
       "z": 16,
       "name": "Rock_Basalt_Brick"
@@ -9675,30 +9338,6 @@
       "y": -9,
       "z": 17,
       "name": "Rock_Basalt"
-    },
-    {
-      "x": -17,
-      "y": -8,
-      "z": 17,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -7,
-      "z": 17,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -6,
-      "z": 17,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -5,
-      "z": 17,
-      "name": "Empty"
     },
     {
       "x": -17,
@@ -9762,18 +9401,6 @@
     },
     {
       "x": -17,
-      "y": -6,
-      "z": 18,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -5,
-      "z": 18,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
       "y": -4,
       "z": 18,
       "name": "Rock_Basalt_Brick"
@@ -9831,18 +9458,6 @@
       "y": -7,
       "z": 19,
       "name": "Rock_Basalt"
-    },
-    {
-      "x": -17,
-      "y": -6,
-      "z": 19,
-      "name": "Empty"
-    },
-    {
-      "x": -17,
-      "y": -5,
-      "z": 19,
-      "name": "Empty"
     },
     {
       "x": -17,
@@ -11064,12 +10679,6 @@
     },
     {
       "x": -16,
-      "y": -7,
-      "z": -1,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
       "y": -6,
       "z": -1,
       "name": "Rock_Sandstone_Red_Brick"
@@ -11214,18 +10823,6 @@
     },
     {
       "x": -16,
-      "y": -6,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -5,
-      "z": 1,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
       "y": -4,
       "z": 1,
       "name": "Rock_Basalt_Brick"
@@ -11283,18 +10880,6 @@
       "y": -7,
       "z": 2,
       "name": "Rock_Basalt"
-    },
-    {
-      "x": -16,
-      "y": -6,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -5,
-      "z": 2,
-      "name": "Empty"
     },
     {
       "x": -16,
@@ -11356,24 +10941,6 @@
     },
     {
       "x": -16,
-      "y": -7,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -6,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -5,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
       "y": -4,
       "z": 3,
       "name": "Rock_Basalt_Brick"
@@ -11413,24 +10980,6 @@
       "y": -10,
       "z": 4,
       "name": "Rock_Basalt"
-    },
-    {
-      "x": -16,
-      "y": -9,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -8,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -7,
-      "z": 4,
-      "name": "Empty"
     },
     {
       "x": -16,
@@ -11476,48 +11025,6 @@
       "y": -12,
       "z": 5,
       "name": "Rock_Basalt"
-    },
-    {
-      "x": -16,
-      "y": -11,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -10,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -9,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -8,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -7,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -6,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -5,
-      "z": 5,
-      "name": "Empty"
     },
     {
       "x": -16,
@@ -11552,24 +11059,6 @@
     },
     {
       "x": -16,
-      "y": -9,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -8,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -7,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
       "y": -6,
       "z": 6,
       "name": "Rock_Basalt_Brick_Decorative"
@@ -11659,36 +11148,6 @@
       "y": -12,
       "z": 8,
       "name": "Rock_Basalt_Cobble"
-    },
-    {
-      "x": -16,
-      "y": -11,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -10,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -9,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -8,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -7,
-      "z": 8,
-      "name": "Empty"
     },
     {
       "x": -16,
@@ -11725,37 +11184,9 @@
       "x": -16,
       "y": -11,
       "z": 9,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -10,
-      "z": 9,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -9,
-      "z": 9,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -8,
-      "z": 9,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -7,
-      "z": 9,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -6,
-      "z": 9,
-      "name": "Empty"
+      "name": "Portal_Device",
+      "filler": 993,
+      "rotation": 1
     },
     {
       "x": -16,
@@ -11785,37 +11216,9 @@
       "x": -16,
       "y": -11,
       "z": 10,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -10,
-      "z": 10,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -9,
-      "z": 10,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -8,
-      "z": 10,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -7,
-      "z": 10,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -6,
-      "z": 10,
-      "name": "Empty"
+      "name": "Portal_Device",
+      "filler": 1,
+      "rotation": 1
     },
     {
       "x": -16,
@@ -11845,37 +11248,9 @@
       "x": -16,
       "y": -11,
       "z": 11,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -10,
-      "z": 11,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -9,
-      "z": 11,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -8,
-      "z": 11,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -7,
-      "z": 11,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -6,
-      "z": 11,
-      "name": "Empty"
+      "name": "Portal_Device",
+      "filler": 33,
+      "rotation": 1
     },
     {
       "x": -16,
@@ -11912,36 +11287,6 @@
       "y": -12,
       "z": 12,
       "name": "Rock_Basalt"
-    },
-    {
-      "x": -16,
-      "y": -11,
-      "z": 12,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -10,
-      "z": 12,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -9,
-      "z": 12,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -8,
-      "z": 12,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -7,
-      "z": 12,
-      "name": "Empty"
     },
     {
       "x": -16,
@@ -12013,12 +11358,6 @@
     },
     {
       "x": -16,
-      "y": -7,
-      "z": 13,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
       "y": -6,
       "z": 13,
       "name": "Rock_Basalt_Brick_Decorative"
@@ -12071,24 +11410,6 @@
       "z": 14,
       "name": "Plant_Grass_Sharp_Tall",
       "filler": 1024
-    },
-    {
-      "x": -16,
-      "y": -9,
-      "z": 14,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -8,
-      "z": 14,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -7,
-      "z": 14,
-      "name": "Empty"
     },
     {
       "x": -16,
@@ -12128,42 +11449,6 @@
     },
     {
       "x": -16,
-      "y": -10,
-      "z": 15,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -9,
-      "z": 15,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -8,
-      "z": 15,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -7,
-      "z": 15,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -6,
-      "z": 15,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -5,
-      "z": 15,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
       "y": -4,
       "z": 15,
       "name": "Rock_Basalt_Brick"
@@ -12185,36 +11470,6 @@
       "y": -11,
       "z": 16,
       "name": "Plant_Grass_Lush"
-    },
-    {
-      "x": -16,
-      "y": -10,
-      "z": 16,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -9,
-      "z": 16,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -8,
-      "z": 16,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -7,
-      "z": 16,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -6,
-      "z": 16,
-      "name": "Empty"
     },
     {
       "x": -16,
@@ -12267,36 +11522,6 @@
     },
     {
       "x": -16,
-      "y": -9,
-      "z": 17,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -8,
-      "z": 17,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -7,
-      "z": 17,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -6,
-      "z": 17,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -5,
-      "z": 17,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
       "y": -4,
       "z": 17,
       "name": "Rock_Basalt_Brick"
@@ -12348,24 +11573,6 @@
       "y": -8,
       "z": 18,
       "name": "Rock_Basalt"
-    },
-    {
-      "x": -16,
-      "y": -7,
-      "z": 18,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -6,
-      "z": 18,
-      "name": "Empty"
-    },
-    {
-      "x": -16,
-      "y": -5,
-      "z": 18,
-      "name": "Empty"
     },
     {
       "x": -16,
@@ -12426,12 +11633,6 @@
       "y": -7,
       "z": 19,
       "name": "Rock_Basalt"
-    },
-    {
-      "x": -16,
-      "y": -6,
-      "z": 19,
-      "name": "Empty"
     },
     {
       "x": -16,
@@ -19495,12 +18696,6 @@
     },
     {
       "x": -13,
-      "y": -11,
-      "z": 11,
-      "name": "Empty"
-    },
-    {
-      "x": -13,
       "y": -10,
       "z": 11,
       "name": "Empty"
@@ -20043,21 +19238,7 @@
       "x": -13,
       "y": -10,
       "z": 20,
-      "name": "Block_Spawner_Block",
-      "components": {
-        "Components": {
-          "PlacedByInteraction": {
-            "WhoPlacedUuid": {
-              "$binary": "5RPZJ2uQSJ2g+KZxfjqR+g==",
-              "$type": "04"
-            }
-          },
-          "BlockSpawner": {
-            "BlockSpawnerId": "Thunderstorm_Tier2"
-          }
-        }
-      },
-      "rotation": 2
+      "name": "Empty"
     },
     {
       "x": -13,
@@ -21940,12 +21121,6 @@
       "y": -12,
       "z": 11,
       "name": "Rock_Basalt_Cobble"
-    },
-    {
-      "x": -12,
-      "y": -11,
-      "z": 11,
-      "name": "Empty"
     },
     {
       "x": -12,
@@ -24258,12 +23433,6 @@
     {
       "x": -11,
       "y": -10,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": -11,
-      "y": -9,
       "z": 8,
       "name": "Empty"
     },
@@ -65114,6 +64283,12 @@
     },
     {
       "x": 1,
+      "y": -7,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 1,
       "y": 21,
       "z": -10,
       "name": "Plant_Leaves_Stormbark"
@@ -65175,6 +64350,18 @@
     {
       "x": 1,
       "y": -7,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 1,
+      "y": -6,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 1,
+      "y": -5,
       "z": -9,
       "name": "Rock_Basalt"
     },
@@ -69403,6 +68590,24 @@
     },
     {
       "x": 2,
+      "y": -7,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 2,
+      "y": -6,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 2,
       "y": 20,
       "z": -10,
       "name": "Plant_Leaves_Stormbark"
@@ -69469,9 +68674,27 @@
     },
     {
       "x": 2,
+      "y": -6,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 2,
       "y": -3,
       "z": -9,
-      "name": "Plant_Moss_Block_Green"
+      "name": "Rock_Basalt"
     },
     {
       "x": 2,
@@ -69542,6 +68765,24 @@
     {
       "x": 2,
       "y": -6,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 2,
+      "y": -5,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 2,
+      "y": -4,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 2,
+      "y": -3,
       "z": -8,
       "name": "Rock_Basalt"
     },
@@ -73445,6 +72686,24 @@
     },
     {
       "x": 3,
+      "y": -8,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 3,
+      "y": -7,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 3,
+      "y": -6,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 3,
       "y": 20,
       "z": -11,
       "name": "Plant_Leaves_Stormbark"
@@ -73494,6 +72753,36 @@
     {
       "x": 3,
       "y": -9,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 3,
+      "y": -8,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 3,
+      "y": -7,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 3,
+      "y": -6,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 3,
+      "y": -4,
       "z": -10,
       "name": "Rock_Basalt"
     },
@@ -73559,9 +72848,39 @@
     },
     {
       "x": 3,
+      "y": -7,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 3,
+      "y": -6,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 3,
       "y": -3,
       "z": -9,
-      "name": "Plant_Moss_Block_Green"
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 3,
+      "y": -2,
+      "z": -9,
+      "name": "Rock_Basalt"
     },
     {
       "x": 3,
@@ -73631,10 +72950,39 @@
     },
     {
       "x": 3,
+      "y": -6,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 3,
+      "y": -3,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 3,
       "y": -2,
       "z": -8,
-      "name": "Rock_Sandstone_Red_Brick_Stairs",
-      "rotation": 2
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 3,
+      "y": -1,
+      "z": -8,
+      "name": "Rock_Basalt"
     },
     {
       "x": 3,
@@ -73699,6 +73047,24 @@
     {
       "x": 3,
       "y": -6,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 3,
+      "y": -5,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 3,
+      "y": -4,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 3,
+      "y": -3,
       "z": -7,
       "name": "Rock_Basalt"
     },
@@ -77403,6 +76769,36 @@
     },
     {
       "x": 4,
+      "y": -8,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": -7,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": -6,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": -5,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
       "y": 20,
       "z": -11,
       "name": "Plant_Leaves_Stormbark"
@@ -77445,6 +76841,42 @@
     },
     {
       "x": 4,
+      "y": -8,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": -7,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": -6,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": -5,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": -3,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
       "y": 20,
       "z": -10,
       "name": "Plant_Leaves_Stormbark"
@@ -77505,9 +76937,39 @@
     },
     {
       "x": 4,
+      "y": -7,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": -6,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": -5,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
       "y": -3,
       "z": -9,
-      "name": "Plant_Moss_Block_Green"
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": -2,
+      "z": -9,
+      "name": "Rock_Basalt"
     },
     {
       "x": 4,
@@ -77565,10 +77027,51 @@
     },
     {
       "x": 4,
+      "y": -7,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": -6,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": -5,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": -3,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
       "y": -2,
       "z": -8,
-      "name": "Rock_Sandstone_Red_Brick_Stairs",
-      "rotation": 2
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": -1,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Basalt"
     },
     {
       "x": 4,
@@ -77632,9 +77135,33 @@
     },
     {
       "x": 4,
+      "y": -6,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": -5,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": -4,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": -3,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
       "y": -2,
       "z": -7,
-      "name": "Rock_Sandstone_Red"
+      "name": "Rock_Basalt"
     },
     {
       "x": 4,
@@ -77717,6 +77244,18 @@
     {
       "x": 4,
       "y": -7,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": -6,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 4,
+      "y": -5,
       "z": -6,
       "name": "Rock_Basalt"
     },
@@ -78907,30 +78446,6 @@
     },
     {
       "x": 4,
-      "y": -4,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -3,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -2,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -1,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
       "y": 0,
       "z": 2,
       "name": "Rock_Basalt_Cobble"
@@ -79070,30 +78585,6 @@
     },
     {
       "x": 4,
-      "y": -4,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -3,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -2,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -1,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
       "y": 0,
       "z": 3,
       "name": "Rock_Basalt_Cobble"
@@ -79221,30 +78712,6 @@
     },
     {
       "x": 4,
-      "y": -4,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -3,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -2,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -1,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
       "y": 0,
       "z": 4,
       "name": "Rock_Basalt_Cobble"
@@ -79356,30 +78823,6 @@
     },
     {
       "x": 4,
-      "y": -4,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -3,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -2,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -1,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
       "y": 0,
       "z": 5,
       "name": "Rock_Basalt_Cobble"
@@ -79489,36 +78932,6 @@
     {
       "x": 4,
       "y": -6,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -5,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -4,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -3,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -2,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -1,
       "z": 6,
       "name": "Empty"
     },
@@ -79641,36 +79054,6 @@
     },
     {
       "x": 4,
-      "y": -5,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -4,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -3,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -2,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -1,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
       "y": 0,
       "z": 7,
       "name": "Rock_Basalt_Cobble"
@@ -79774,30 +79157,6 @@
     {
       "x": 4,
       "y": -5,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -4,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -3,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -2,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": 4,
-      "y": -1,
       "z": 8,
       "name": "Empty"
     },
@@ -81529,6 +80888,42 @@
     },
     {
       "x": 5,
+      "y": -8,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -7,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -6,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -5,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -4,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -3,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
       "y": 20,
       "z": -11,
       "name": "Plant_Leaves_Stormbark"
@@ -81566,6 +80961,48 @@
     {
       "x": 5,
       "y": -9,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -8,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -7,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -6,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -5,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -4,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -3,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -2,
       "z": -10,
       "name": "Rock_Basalt"
     },
@@ -81625,9 +81062,51 @@
     },
     {
       "x": 5,
+      "y": -8,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -7,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -6,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -5,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -4,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
       "y": -3,
       "z": -9,
-      "name": "Plant_Moss_Block_Green"
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -2,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": -9,
+      "name": "Rock_Basalt"
     },
     {
       "x": 5,
@@ -81692,9 +81171,57 @@
     },
     {
       "x": 5,
+      "y": -8,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -7,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -6,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -5,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -4,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
       "y": -3,
       "z": -8,
-      "name": "Plant_Moss_Block_Green"
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -2,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -1,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Basalt"
     },
     {
       "x": 5,
@@ -81759,9 +81286,45 @@
     },
     {
       "x": 5,
+      "y": -8,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -7,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -6,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -5,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -4,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -3,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
       "y": -2,
       "z": -7,
-      "name": "Rock_Sandstone_Red_Cobble"
+      "name": "Rock_Basalt"
     },
     {
       "x": 5,
@@ -81869,9 +81432,39 @@
     },
     {
       "x": 5,
+      "y": -7,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -6,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -5,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -4,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -3,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
       "y": -2,
       "z": -6,
-      "name": "Rock_Sandstone_Red_Cobble"
+      "name": "Rock_Basalt"
     },
     {
       "x": 5,
@@ -81995,6 +81588,42 @@
     },
     {
       "x": 5,
+      "y": -8,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -7,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -6,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -5,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -4,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
+      "y": -3,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 5,
       "y": -2,
       "z": -5,
       "name": "Rock_Sandstone_Red"
@@ -82099,19 +81728,19 @@
       "x": 5,
       "y": -8,
       "z": -4,
-      "name": "Rock_Basalt_Brick"
+      "name": "Rock_Basalt"
     },
     {
       "x": 5,
       "y": -7,
       "z": -4,
-      "name": "Rock_Basalt_Brick"
+      "name": "Rock_Basalt"
     },
     {
       "x": 5,
       "y": -6,
       "z": -4,
-      "name": "Rock_Basalt_Brick"
+      "name": "Rock_Basalt"
     },
     {
       "x": 5,
@@ -82968,30 +82597,6 @@
     },
     {
       "x": 5,
-      "y": -4,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -3,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -2,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -1,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
       "y": 0,
       "z": 2,
       "name": "Rock_Basalt_Cobble"
@@ -83107,30 +82712,6 @@
     {
       "x": 5,
       "y": -5,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -4,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -3,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -2,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -1,
       "z": 3,
       "name": "Empty"
     },
@@ -83280,30 +82861,6 @@
     },
     {
       "x": 5,
-      "y": -4,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -3,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -2,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -1,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
       "y": 0,
       "z": 4,
       "name": "Rock_Basalt_Cobble"
@@ -83418,30 +82975,6 @@
     {
       "x": 5,
       "y": -5,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -4,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -3,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -2,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -1,
       "z": 5,
       "name": "Empty"
     },
@@ -83574,30 +83107,6 @@
     },
     {
       "x": 5,
-      "y": -4,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -3,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -2,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -1,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
       "y": 0,
       "z": 6,
       "name": "Rock_Basalt"
@@ -83711,30 +83220,6 @@
     {
       "x": 5,
       "y": -5,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -4,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -3,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -2,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -1,
       "z": 7,
       "name": "Empty"
     },
@@ -83861,30 +83346,6 @@
     {
       "x": 5,
       "y": -5,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -4,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -3,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -2,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": 5,
-      "y": -1,
       "z": 8,
       "name": "Empty"
     },
@@ -84234,6 +83695,13 @@
       "y": -9,
       "z": 11,
       "name": "Empty"
+    },
+    {
+      "x": 5,
+      "y": -8,
+      "z": 11,
+      "name": "Rock_Stone_Stalactite_Large",
+      "filler": 1024
     },
     {
       "x": 5,
@@ -85497,6 +84965,42 @@
     },
     {
       "x": 6,
+      "y": -8,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -7,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -6,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -5,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -4,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -3,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
       "y": 20,
       "z": -11,
       "name": "Plant_Leaves_Stormbark"
@@ -85540,6 +85044,48 @@
     {
       "x": 6,
       "y": -9,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -8,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -7,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -6,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -5,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -4,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -3,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -2,
       "z": -10,
       "name": "Rock_Basalt"
     },
@@ -85599,9 +85145,51 @@
     },
     {
       "x": 6,
+      "y": -8,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -7,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -6,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -5,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -4,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
       "y": -3,
       "z": -9,
-      "name": "Plant_Moss_Block_Green"
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": -9,
+      "name": "Rock_Basalt"
     },
     {
       "x": 6,
@@ -85665,9 +85253,51 @@
     },
     {
       "x": 6,
+      "y": -7,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -6,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -5,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -4,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
       "y": -3,
       "z": -8,
-      "name": "Plant_Moss_Block_Green"
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -2,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Basalt"
     },
     {
       "x": 6,
@@ -85720,6 +85350,36 @@
     {
       "x": 6,
       "y": -8,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -7,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -6,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -5,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -4,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -3,
       "z": -7,
       "name": "Rock_Basalt"
     },
@@ -85727,19 +85387,19 @@
       "x": 6,
       "y": -2,
       "z": -7,
-      "name": "Rock_Sandstone_Red_Cobble"
+      "name": "Rock_Basalt"
     },
     {
       "x": 6,
       "y": -1,
       "z": -7,
-      "name": "Rock_Sandstone_Red_Brick_Decorative"
+      "name": "Rock_Basalt"
     },
     {
       "x": 6,
       "y": 0,
       "z": -7,
-      "name": "Rock_Sandstone_Red_Brick_Pillar_Base"
+      "name": "Rock_Basalt"
     },
     {
       "x": 6,
@@ -85822,21 +85482,51 @@
     },
     {
       "x": 6,
+      "y": -7,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -6,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -5,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -4,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -3,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
       "y": -2,
       "z": -6,
-      "name": "Rock_Sandstone_Red_Cobble"
+      "name": "Rock_Basalt"
     },
     {
       "x": 6,
       "y": -1,
       "z": -6,
-      "name": "Rock_Sandstone_Red_Brick_Decorative"
+      "name": "Rock_Basalt"
     },
     {
       "x": 6,
       "y": 0,
       "z": -6,
-      "name": "Rock_Sandstone_Red_Brick_Smooth"
+      "name": "Rock_Basalt"
     },
     {
       "x": 6,
@@ -85925,15 +85615,51 @@
     },
     {
       "x": 6,
+      "y": -8,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -7,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -6,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -5,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -4,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -3,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
       "y": -2,
       "z": -5,
-      "name": "Rock_Sandstone_Red"
+      "name": "Rock_Basalt"
     },
     {
       "x": 6,
       "y": -1,
       "z": -5,
-      "name": "Rock_Sandstone_Red"
+      "name": "Rock_Basalt"
     },
     {
       "x": 6,
@@ -86041,31 +85767,37 @@
       "x": 6,
       "y": -8,
       "z": -4,
-      "name": "Rock_Basalt_Brick"
+      "name": "Rock_Basalt"
     },
     {
       "x": 6,
       "y": -7,
       "z": -4,
-      "name": "Rock_Basalt_Brick"
+      "name": "Rock_Basalt"
     },
     {
       "x": 6,
       "y": -6,
       "z": -4,
-      "name": "Rock_Basalt_Brick"
+      "name": "Rock_Basalt"
     },
     {
       "x": 6,
       "y": -5,
       "z": -4,
-      "name": "Rock_Basalt_Brick"
+      "name": "Rock_Basalt"
     },
     {
       "x": 6,
       "y": -4,
       "z": -4,
-      "name": "Rock_Basalt_Brick"
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -3,
+      "z": -4,
+      "name": "Rock_Basalt"
     },
     {
       "x": 6,
@@ -86956,30 +86688,6 @@
     },
     {
       "x": 6,
-      "y": -4,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -3,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -2,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -1,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
       "y": 0,
       "z": 2,
       "name": "Rock_Basalt_Cobble"
@@ -87103,30 +86811,6 @@
     },
     {
       "x": 6,
-      "y": -4,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -3,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -2,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -1,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
       "y": 0,
       "z": 3,
       "name": "Rock_Basalt"
@@ -87231,36 +86915,6 @@
     {
       "x": 6,
       "y": -6,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -5,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -4,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -3,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -2,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -1,
       "z": 4,
       "name": "Empty"
     },
@@ -87375,30 +87029,6 @@
     {
       "x": 6,
       "y": -5,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -4,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -3,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -2,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -1,
       "z": 5,
       "name": "Empty"
     },
@@ -87531,30 +87161,6 @@
     },
     {
       "x": 6,
-      "y": -4,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -3,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -2,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -1,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
       "y": 0,
       "z": 6,
       "name": "Rock_Basalt"
@@ -87681,30 +87287,6 @@
     },
     {
       "x": 6,
-      "y": -4,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -3,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -2,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -1,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
       "y": 0,
       "z": 7,
       "name": "Rock_Basalt_Cobble"
@@ -87820,24 +87402,6 @@
     {
       "x": 6,
       "y": -5,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -4,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -3,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": 6,
-      "y": -2,
       "z": 8,
       "name": "Empty"
     },
@@ -87962,6 +87526,13 @@
       "y": -8,
       "z": 9,
       "name": "Rock_Basalt"
+    },
+    {
+      "x": 6,
+      "y": -7,
+      "z": 9,
+      "name": "Furniture_Temple_Dark_Candle",
+      "filler": 1024
     },
     {
       "x": 6,
@@ -89416,6 +88987,42 @@
     },
     {
       "x": 7,
+      "y": -8,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -7,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -6,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -5,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -4,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -3,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
       "y": 20,
       "z": -11,
       "name": "Plant_Leaves_Stormbark"
@@ -89459,6 +89066,48 @@
     {
       "x": 7,
       "y": -9,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -8,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -7,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -6,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -5,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -4,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -3,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -2,
       "z": -10,
       "name": "Rock_Basalt"
     },
@@ -89518,10 +89167,46 @@
     },
     {
       "x": 7,
+      "y": -7,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -6,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -5,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -4,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
       "y": -3,
       "z": -9,
-      "name": "Plant_Moss_Block_Green",
+      "name": "Rock_Basalt",
       "support": 15
+    },
+    {
+      "x": 7,
+      "y": -2,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -1,
+      "z": -9,
+      "name": "Rock_Basalt"
     },
     {
       "x": 7,
@@ -89585,9 +89270,51 @@
     },
     {
       "x": 7,
+      "y": -7,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -6,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -5,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -4,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
       "y": -3,
       "z": -8,
-      "name": "Plant_Moss_Block_Green"
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -2,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -1,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Basalt"
     },
     {
       "x": 7,
@@ -89664,9 +89391,57 @@
     },
     {
       "x": 7,
+      "y": -7,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -6,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -5,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -4,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
       "y": -3,
       "z": -7,
-      "name": "Plant_Moss_Block_Green"
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -2,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -1,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "z": -7,
+      "name": "Rock_Basalt"
     },
     {
       "x": 7,
@@ -89725,9 +89500,57 @@
     },
     {
       "x": 7,
+      "y": -8,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -7,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -6,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -5,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -4,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -3,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
       "y": -2,
       "z": -6,
-      "name": "Plant_Moss_Block_Green"
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -1,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Basalt"
     },
     {
       "x": 7,
@@ -89799,21 +89622,57 @@
     },
     {
       "x": 7,
+      "y": -8,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -7,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -6,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -5,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -4,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -3,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
       "y": -2,
       "z": -5,
-      "name": "Rock_Sandstone_Red"
+      "name": "Rock_Basalt"
     },
     {
       "x": 7,
       "y": -1,
       "z": -5,
-      "name": "Plant_Moss_Block_Green"
+      "name": "Rock_Basalt"
     },
     {
       "x": 7,
       "y": 0,
       "z": -5,
-      "name": "Plant_Grass_Sharp"
+      "name": "Rock_Basalt"
     },
     {
       "x": 7,
@@ -89871,9 +89730,45 @@
     },
     {
       "x": 7,
+      "y": -8,
+      "z": -4,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -7,
+      "z": -4,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -6,
+      "z": -4,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -5,
+      "z": -4,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -4,
+      "z": -4,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -3,
+      "z": -4,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
       "y": -2,
       "z": -4,
-      "name": "Rock_Sandstone_Red"
+      "name": "Rock_Basalt"
     },
     {
       "x": 7,
@@ -89974,6 +89869,30 @@
     {
       "x": 7,
       "y": -9,
+      "z": -3,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -8,
+      "z": -3,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -7,
+      "z": -3,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -6,
+      "z": -3,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 7,
+      "y": -5,
       "z": -3,
       "name": "Rock_Basalt"
     },
@@ -90715,36 +90634,6 @@
     },
     {
       "x": 7,
-      "y": -5,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -4,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -3,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -2,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -1,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
       "y": 0,
       "z": 2,
       "name": "Rock_Basalt_Cobble"
@@ -90862,36 +90751,6 @@
       "y": -6,
       "z": 3,
       "name": "Rock_Basalt_Brick_Half"
-    },
-    {
-      "x": 7,
-      "y": -5,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -4,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -3,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -2,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -1,
-      "z": 3,
-      "name": "Empty"
     },
     {
       "x": 7,
@@ -91018,42 +90877,6 @@
     },
     {
       "x": 7,
-      "y": -6,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -5,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -4,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -3,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -2,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -1,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
       "y": 0,
       "z": 4,
       "name": "Rock_Basalt_Cobble"
@@ -91163,42 +90986,6 @@
     },
     {
       "x": 7,
-      "y": -6,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -5,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -4,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -3,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -2,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -1,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
       "y": 0,
       "z": 5,
       "name": "Rock_Basalt_Cobble"
@@ -91293,42 +91080,6 @@
       "y": -8,
       "z": 6,
       "name": "Rock_Basalt_Brick"
-    },
-    {
-      "x": 7,
-      "y": -6,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -5,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -4,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -3,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -2,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -1,
-      "z": 6,
-      "name": "Empty"
     },
     {
       "x": 7,
@@ -91439,36 +91190,6 @@
       "y": -8,
       "z": 7,
       "name": "Rock_Basalt_Brick_Half"
-    },
-    {
-      "x": 7,
-      "y": -6,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -5,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -4,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -3,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -2,
-      "z": 7,
-      "name": "Empty"
     },
     {
       "x": 7,
@@ -91593,48 +91314,6 @@
     },
     {
       "x": 7,
-      "y": -7,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -6,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -5,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -4,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -3,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -2,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
-      "y": -1,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": 7,
       "y": 0,
       "z": 8,
       "name": "Rock_Basalt_Brick"
@@ -91746,12 +91425,6 @@
       "y": -7,
       "z": 9,
       "name": "Rock_Basalt"
-    },
-    {
-      "x": 7,
-      "y": -6,
-      "z": 9,
-      "name": "Empty"
     },
     {
       "x": 7,
@@ -93167,6 +92840,42 @@
     },
     {
       "x": 8,
+      "y": -8,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -7,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -6,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -5,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -4,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -3,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
       "y": 21,
       "z": -11,
       "name": "Plant_Leaves_Stormbark"
@@ -93215,6 +92924,42 @@
     },
     {
       "x": 8,
+      "y": -7,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -6,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -5,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -4,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -3,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -2,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
       "y": 20,
       "z": -10,
       "name": "Plant_Leaves_Stormbark"
@@ -93269,9 +93014,45 @@
     },
     {
       "x": 8,
+      "y": -7,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -6,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -5,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -4,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
       "y": -3,
       "z": -9,
-      "name": "Plant_Moss_Block_Green"
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -2,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -1,
+      "z": -9,
+      "name": "Rock_Basalt"
     },
     {
       "x": 8,
@@ -93335,9 +93116,51 @@
     },
     {
       "x": 8,
+      "y": -7,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -6,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -5,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -4,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
       "y": -3,
       "z": -8,
-      "name": "Plant_Moss_Block_Green"
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -2,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -1,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Basalt"
     },
     {
       "x": 8,
@@ -93401,9 +93224,51 @@
     },
     {
       "x": 8,
+      "y": -7,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -6,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -5,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -4,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
       "y": -3,
       "z": -7,
-      "name": "Plant_Moss_Block_Green"
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -2,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -1,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Basalt"
     },
     {
       "x": 8,
@@ -93456,6 +93321,36 @@
     {
       "x": 8,
       "y": -8,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -7,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -6,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -5,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -4,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -3,
       "z": -6,
       "name": "Rock_Basalt"
     },
@@ -93463,14 +93358,26 @@
       "x": 8,
       "y": -2,
       "z": -6,
-      "name": "Plant_Moss_Block_Green",
+      "name": "Rock_Basalt",
       "support": 15
     },
     {
       "x": 8,
       "y": -1,
       "z": -6,
-      "name": "Plant_Grass_Lush"
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "z": -6,
+      "name": "Rock_Basalt"
     },
     {
       "x": 8,
@@ -93528,21 +93435,51 @@
     },
     {
       "x": 8,
+      "y": -7,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -6,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -5,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -4,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -3,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
       "y": -2,
       "z": -5,
-      "name": "Rock_Sandstone_Red"
+      "name": "Rock_Basalt"
     },
     {
       "x": 8,
       "y": -1,
       "z": -5,
-      "name": "Rock_Stone_Mossy"
+      "name": "Rock_Basalt"
     },
     {
       "x": 8,
       "y": 0,
       "z": -5,
-      "name": "Plant_Grass_Lush_Short"
+      "name": "Rock_Basalt"
     },
     {
       "x": 8,
@@ -93606,9 +93543,39 @@
     },
     {
       "x": 8,
+      "y": -7,
+      "z": -4,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -6,
+      "z": -4,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -5,
+      "z": -4,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -4,
+      "z": -4,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -3,
+      "z": -4,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
       "y": -2,
       "z": -4,
-      "name": "Rock_Sandstone_Red"
+      "name": "Rock_Basalt"
     },
     {
       "x": 8,
@@ -93709,6 +93676,24 @@
     {
       "x": 8,
       "y": -8,
+      "z": -3,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -7,
+      "z": -3,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -6,
+      "z": -3,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 8,
+      "y": -5,
       "z": -3,
       "name": "Rock_Basalt"
     },
@@ -94435,30 +94420,6 @@
     },
     {
       "x": 8,
-      "y": -5,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
-      "y": -4,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
-      "y": -3,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
-      "y": -2,
-      "z": 2,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
       "y": -1,
       "z": 2,
       "name": "Plant_Vine_Wall",
@@ -94598,30 +94559,6 @@
     },
     {
       "x": 8,
-      "y": -5,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
-      "y": -4,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
-      "y": -3,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
-      "y": -2,
-      "z": 3,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
       "y": -1,
       "z": 3,
       "name": "Plant_Vine",
@@ -94744,36 +94681,6 @@
     },
     {
       "x": 8,
-      "y": -6,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
-      "y": -5,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
-      "y": -4,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
-      "y": -3,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
-      "y": -2,
-      "z": 4,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
       "y": -1,
       "z": 4,
       "name": "Rock_Basalt_Cobble_Half",
@@ -94889,42 +94796,6 @@
     },
     {
       "x": 8,
-      "y": -6,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
-      "y": -5,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
-      "y": -4,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
-      "y": -3,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
-      "y": -2,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
-      "y": -1,
-      "z": 5,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
       "y": 0,
       "z": 5,
       "name": "Rock_Basalt_Brick"
@@ -95025,24 +94896,6 @@
       "y": -7,
       "z": 6,
       "name": "Rock_Basalt_Brick_Half"
-    },
-    {
-      "x": 8,
-      "y": -6,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
-      "y": -5,
-      "z": 6,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
-      "y": -4,
-      "z": 6,
-      "name": "Empty"
     },
     {
       "x": 8,
@@ -95182,36 +95035,6 @@
     },
     {
       "x": 8,
-      "y": -7,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
-      "y": -6,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
-      "y": -5,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
-      "y": -4,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
-      "y": -3,
-      "z": 7,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
       "y": -2,
       "z": 7,
       "name": "Rock_Stone_Stalactite_Large",
@@ -95342,24 +95165,6 @@
       "y": -6,
       "z": 8,
       "name": "Plant_Crop_Mushroom_Shelve_Yellow"
-    },
-    {
-      "x": 8,
-      "y": -5,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
-      "y": -4,
-      "z": 8,
-      "name": "Empty"
-    },
-    {
-      "x": 8,
-      "y": -3,
-      "z": 8,
-      "name": "Empty"
     },
     {
       "x": 8,
@@ -96854,6 +96659,42 @@
     },
     {
       "x": 9,
+      "y": -8,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -7,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -6,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -5,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -4,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -3,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
       "y": -14,
       "z": -10,
       "name": "Rock_Basalt"
@@ -96891,6 +96732,42 @@
     {
       "x": 9,
       "y": -8,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -7,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -6,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -5,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -4,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -3,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -2,
       "z": -10,
       "name": "Rock_Basalt"
     },
@@ -96944,9 +96821,45 @@
     },
     {
       "x": 9,
+      "y": -7,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -6,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -5,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -4,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
       "y": -3,
       "z": -9,
-      "name": "Plant_Moss_Block_Green"
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -2,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -1,
+      "z": -9,
+      "name": "Rock_Basalt"
     },
     {
       "x": 9,
@@ -96998,9 +96911,51 @@
     },
     {
       "x": 9,
+      "y": -7,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -6,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -5,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -4,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
       "y": -3,
       "z": -8,
-      "name": "Plant_Moss_Block_Green"
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -2,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -1,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Basalt"
     },
     {
       "x": 9,
@@ -97046,9 +97001,57 @@
     },
     {
       "x": 9,
+      "y": -8,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -7,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -6,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -5,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -4,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
       "y": -3,
       "z": -7,
-      "name": "Plant_Moss_Block_Green"
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -2,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -1,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Basalt"
     },
     {
       "x": 9,
@@ -97106,19 +97109,55 @@
     },
     {
       "x": 9,
+      "y": -7,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -6,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -5,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -4,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
       "y": -3,
       "z": -6,
-      "name": "Plant_Moss_Block_Green"
+      "name": "Rock_Basalt"
     },
     {
       "x": 9,
       "y": -2,
       "z": -6,
-      "name": "Plant_Moss_Block_Green",
+      "name": "Rock_Basalt",
       "support": 15
     },
     {
       "x": 9,
+      "y": -1,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
       "y": 21,
       "z": -6,
       "name": "Plant_Leaves_Stormbark"
@@ -97173,9 +97212,51 @@
     },
     {
       "x": 9,
+      "y": -7,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -6,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -5,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -4,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -3,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
       "y": -2,
       "z": -5,
-      "name": "Rock_Sandstone_Red"
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -1,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Basalt"
     },
     {
       "x": 9,
@@ -97233,9 +97314,39 @@
     },
     {
       "x": 9,
+      "y": -7,
+      "z": -4,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -6,
+      "z": -4,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -5,
+      "z": -4,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -4,
+      "z": -4,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -3,
+      "z": -4,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
       "y": -2,
       "z": -4,
-      "name": "Rock_Sandstone_Red"
+      "name": "Rock_Basalt"
     },
     {
       "x": 9,
@@ -97306,6 +97417,24 @@
     {
       "x": 9,
       "y": -8,
+      "z": -3,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -7,
+      "z": -3,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -6,
+      "z": -3,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 9,
+      "y": -5,
       "z": -3,
       "name": "Rock_Basalt"
     },
@@ -98230,12 +98359,6 @@
       "y": -7,
       "z": 4,
       "name": "Rock_Basalt"
-    },
-    {
-      "x": 9,
-      "y": -6,
-      "z": 4,
-      "name": "Empty"
     },
     {
       "x": 9,
@@ -100121,6 +100244,36 @@
     },
     {
       "x": 10,
+      "y": -8,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -7,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -6,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -5,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -4,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
       "y": -14,
       "z": -10,
       "name": "Rock_Basalt"
@@ -100157,6 +100310,48 @@
     },
     {
       "x": 10,
+      "y": -8,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -7,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -6,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -5,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -4,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -3,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -2,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
       "y": -14,
       "z": -9,
       "name": "Rock_Basalt"
@@ -100188,6 +100383,54 @@
     {
       "x": 10,
       "y": -9,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -8,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -7,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -6,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -5,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -4,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -3,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -2,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -1,
       "z": -9,
       "name": "Rock_Basalt"
     },
@@ -100235,9 +100478,51 @@
     },
     {
       "x": 10,
+      "y": -8,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -7,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -6,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -5,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -4,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
       "y": -3,
       "z": -8,
-      "name": "Plant_Moss_Block_Green"
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -2,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -1,
+      "z": -8,
+      "name": "Rock_Basalt"
     },
     {
       "x": 10,
@@ -100283,9 +100568,51 @@
     },
     {
       "x": 10,
+      "y": -8,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -7,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -6,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -5,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -4,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
       "y": -3,
       "z": -7,
-      "name": "Plant_Moss_Block_Green"
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -2,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -1,
+      "z": -7,
+      "name": "Rock_Basalt"
     },
     {
       "x": 10,
@@ -100343,9 +100670,45 @@
     },
     {
       "x": 10,
+      "y": -7,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -6,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -5,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -4,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
       "y": -3,
       "z": -6,
-      "name": "Plant_Moss_Block_Green"
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -2,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -1,
+      "z": -6,
+      "name": "Rock_Basalt"
     },
     {
       "x": 10,
@@ -100403,15 +100766,45 @@
     },
     {
       "x": 10,
+      "y": -7,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -6,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -5,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -4,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
       "y": -3,
       "z": -5,
-      "name": "Plant_Moss_Block_Green"
+      "name": "Rock_Basalt"
     },
     {
       "x": 10,
       "y": -2,
       "z": -5,
-      "name": "Plant_Moss_Block_Green"
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -1,
+      "z": -5,
+      "name": "Rock_Basalt"
     },
     {
       "x": 10,
@@ -100464,6 +100857,36 @@
     {
       "x": 10,
       "y": -8,
+      "z": -4,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -7,
+      "z": -4,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -6,
+      "z": -4,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -5,
+      "z": -4,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -4,
+      "z": -4,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 10,
+      "y": -3,
       "z": -4,
       "name": "Rock_Basalt"
     },
@@ -103223,6 +103646,30 @@
     },
     {
       "x": 11,
+      "y": -8,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -7,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -6,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -5,
+      "z": -11,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
       "y": -14,
       "z": -10,
       "name": "Rock_Basalt"
@@ -103254,6 +103701,42 @@
     {
       "x": 11,
       "y": -9,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -8,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -7,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -6,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -5,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -4,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -3,
       "z": -10,
       "name": "Rock_Basalt"
     },
@@ -103296,6 +103779,42 @@
     {
       "x": 11,
       "y": -8,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -7,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -6,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -5,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -4,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -3,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -2,
       "z": -9,
       "name": "Rock_Basalt"
     },
@@ -103349,6 +103868,42 @@
     },
     {
       "x": 11,
+      "y": -6,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -5,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -4,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -3,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -2,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -1,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
       "y": -14,
       "z": -7,
       "name": "Rock_Basalt"
@@ -103380,6 +103935,54 @@
     {
       "x": 11,
       "y": -9,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -8,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -7,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -6,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -5,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -4,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -3,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -2,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -1,
       "z": -7,
       "name": "Rock_Basalt"
     },
@@ -103427,6 +104030,24 @@
     },
     {
       "x": 11,
+      "y": -8,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -7,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -6,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
       "y": -5,
       "z": -6,
       "name": "Rock_Basalt"
@@ -103434,6 +104055,24 @@
     {
       "x": 11,
       "y": -4,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -3,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -2,
+      "z": -6,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -1,
       "z": -6,
       "name": "Rock_Basalt"
     },
@@ -103494,6 +104133,12 @@
     {
       "x": 11,
       "y": -7,
+      "z": -5,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -6,
       "z": -5,
       "name": "Rock_Basalt"
     },
@@ -103572,6 +104217,12 @@
     {
       "x": 11,
       "y": -7,
+      "z": -4,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 11,
+      "y": -6,
       "z": -4,
       "name": "Rock_Basalt"
     },
@@ -106198,6 +106849,36 @@
     },
     {
       "x": 12,
+      "y": -8,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 12,
+      "y": -7,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 12,
+      "y": -6,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 12,
+      "y": -5,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 12,
+      "y": -4,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 12,
       "y": -14,
       "z": -9,
       "name": "Rock_Basalt"
@@ -106241,6 +106922,30 @@
     {
       "x": 12,
       "y": -7,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 12,
+      "y": -6,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 12,
+      "y": -5,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 12,
+      "y": -4,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 12,
+      "y": -3,
       "z": -9,
       "name": "Rock_Basalt"
     },
@@ -106295,6 +107000,30 @@
     {
       "x": 12,
       "y": -6,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 12,
+      "y": -5,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 12,
+      "y": -4,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 12,
+      "y": -3,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 12,
+      "y": -2,
       "z": -8,
       "name": "Rock_Basalt"
     },
@@ -106361,6 +107090,18 @@
     {
       "x": 12,
       "y": -4,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 12,
+      "y": -3,
+      "z": -7,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 12,
+      "y": -2,
       "z": -7,
       "name": "Rock_Basalt"
     },
@@ -108974,7 +109715,25 @@
     },
     {
       "x": 13,
+      "y": -8,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 13,
       "y": -7,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 13,
+      "y": -6,
+      "z": -10,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 13,
+      "y": -5,
       "z": -10,
       "name": "Rock_Basalt"
     },
@@ -109023,6 +109782,18 @@
     {
       "x": 13,
       "y": -6,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 13,
+      "y": -5,
+      "z": -9,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 13,
+      "y": -4,
       "z": -9,
       "name": "Rock_Basalt"
     },
@@ -109083,6 +109854,18 @@
     {
       "x": 13,
       "y": -5,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 13,
+      "y": -4,
+      "z": -8,
+      "name": "Rock_Basalt"
+    },
+    {
+      "x": 13,
+      "y": -3,
       "z": -8,
       "name": "Rock_Basalt"
     },
@@ -111545,11 +112328,11 @@
           "Version": 5,
           "DisplayName": "0.057de38c-55d4-44db-a145-fea0d9f251a2 (Golem_Crystal_Earth) #0 [Wait 0.0s] <Rotate 0.00deg>",
           "UUID": {
-            "$binary": "RGiQqfoxNEeTm25HvO0QdA==",
+            "$binary": "g1P1R3LPMPOR1NUEiI1pVg==",
             "$type": "04"
           },
           "PathId": {
-            "$binary": "rYWyMbVST4qSs3xBXsYSEQ==",
+            "$binary": "DNsmDWFgR06+f8e/jqWnsw==",
             "$type": "04"
           },
           "PathName": "Golem_Crystal_Earth",
@@ -111597,7 +112380,7 @@
         },
         "UUID": {
           "UUID": {
-            "$binary": "uqJUlGj3N7+Rs/+mfmtuzg==",
+            "$binary": "U3W4hEI5N1mnOOVzcd/x/w==",
             "$type": "04"
           }
         },
@@ -111619,11 +112402,11 @@
           "Version": 5,
           "DisplayName": "0.057de38c-55d4-44db-a145-fea0d9f251a2 (Golem_Crystal_Earth) #0 [Wait 0.0s] <Rotate 0.00deg>",
           "UUID": {
-            "$binary": "n+NWCQ15MBG/ob1vpaVQPA==",
+            "$binary": "9hvz+BieMj2n9OPDfaiPoQ==",
             "$type": "04"
           },
           "PathId": {
-            "$binary": "eJW26vdER0yXEccjV9FRfQ==",
+            "$binary": "vuesjJzsS86uX/MkI5l1lQ==",
             "$type": "04"
           },
           "PathName": "Golem_Crystal_Earth",
@@ -111671,7 +112454,7 @@
         },
         "UUID": {
           "UUID": {
-            "$binary": "KmZ2BFzwNPunEyZrtw+uDQ==",
+            "$binary": "X3UWYsZ4NeOWFq2zZlbHlQ==",
             "$type": "04"
           }
         },
@@ -111725,7 +112508,7 @@
         },
         "UUID": {
           "UUID": {
-            "$binary": "2vq4o4DPNcacPnpwvMJGpg==",
+            "$binary": "hQq58uhkPX++ksklq9iQew==",
             "$type": "04"
           }
         },
@@ -111779,7 +112562,7 @@
         },
         "UUID": {
           "UUID": {
-            "$binary": "4/8+CLMbPY2V+2yWCw6wzQ==",
+            "$binary": "U/HQwcrsNTWtE6cwkoY9Rg==",
             "$type": "04"
           }
         },
@@ -111860,7 +112643,7 @@
         },
         "UUID": {
           "UUID": {
-            "$binary": "5QyMtim0NfWyBh6d42vc1Q==",
+            "$binary": "5VRIivsnPP+5gFMw/12Iqw==",
             "$type": "04"
           }
         },
@@ -111931,7 +112714,7 @@
         "NPC": {
           "Version": 5,
           "UUID": {
-            "$binary": "GDglgw0HNfqBci1jJByVIw==",
+            "$binary": "5VRIivsnPP+5gFMw/12Iqw==",
             "$type": "04"
           },
           "Inventory": {
@@ -112039,7 +112822,7 @@
         },
         "UUID": {
           "UUID": {
-            "$binary": "6HnUGiENPVamH2bsX4uetw==",
+            "$binary": "2RqXEyc6Nw6WFyoMPagmrA==",
             "$type": "04"
           }
         },
@@ -112110,7 +112893,7 @@
         "NPC": {
           "Version": 5,
           "UUID": {
-            "$binary": "i9UQ9Vb3Pw2gCtCEx+qXSA==",
+            "$binary": "2RqXEyc6Nw6WFyoMPagmrA==",
             "$type": "04"
           },
           "Inventory": {

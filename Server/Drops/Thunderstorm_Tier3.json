@@ -97,6 +97,15 @@
               "QuantityMin": 1,
               "QuantityMax": 5
             }
+          },
+          {
+            "Type": "Single",
+            "Weight": 15,
+            "Item": {
+              "ItemId": "Ingredient_Lightning_Essence",
+              "QuantityMin": 3,
+              "QuantityMax": 8
+            }
           }
         ]
       },
@@ -105,13 +114,6 @@
         "RollsMin": 1,
         "RollsMax": 2,
         "Containers": [
-          {
-            "Type": "Single",
-            "Item": {
-              "ItemId": "Glider"
-            },
-            "Weight": 5
-          },
           {
             "Type": "Single",
             "Weight": 4,
@@ -248,13 +250,6 @@
                 "Weight": 10,
                 "Item": {
                   "ItemId": "Tool_Pickaxe_Mithril"
-                }
-              },
-              {
-                "Type": "Single",
-                "Weight": 6,
-                "Item": {
-                  "ItemId": "Weapon_Axe_Mithril"
                 }
               },
               {

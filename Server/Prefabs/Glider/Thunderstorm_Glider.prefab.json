@@ -1,0 +1,424 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -2,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Beam"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Beam"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Beam"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Beam"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -2,
+      "name": "*Rock_Sandstone_Red_Brick_Roof_State_Definitions_Corner_Left",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick_Roof_Hollow",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick_Roof_Hollow",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick_Roof_Hollow",
+      "rotation": 3
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Beam"
+    },
+    {
+      "x": -2,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Beam"
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Beam"
+    },
+    {
+      "x": -2,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Beam"
+    },
+    {
+      "x": -2,
+      "y": 4,
+      "z": 2,
+      "name": "*Rock_Sandstone_Red_Brick_Roof_State_Definitions_Corner_Right"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Roof_Hollow",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick_Roof_Flat",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick_Roof_Flat",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -1,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick_Roof_Flat",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": -1,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Roof_Hollow"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Roof_Hollow",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick_Roof_Flat",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Block_Spawner_Block",
+      "components": {
+        "Components": {
+          "PlacedByInteraction": {
+            "WhoPlacedUuid": {
+              "$binary": "5RPZJ2uQSJ2g+KZxfjqR+g==",
+              "$type": "04"
+            }
+          },
+          "BlockSpawner": {
+            "BlockSpawnerId": "Thunderstorm_Glider"
+          }
+        }
+      },
+      "rotation": 1
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 0,
+      "name": "Furniture_Human_Ruins_Lantern_Ceiling"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick_Roof_Flat"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick_Roof_Flat"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Roof_Hollow"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Roof_Hollow",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick_Roof_Flat",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick_Roof_Flat",
+      "rotation": 3
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick_Roof_Flat"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Roof_Hollow"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Beam"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Beam"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Beam"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": -2,
+      "name": "Rock_Sandstone_Red_Brick_Beam"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -2,
+      "name": "*Rock_Sandstone_Red_Brick_Roof_State_Definitions_Corner_Left",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": -1,
+      "name": "Rock_Sandstone_Red_Brick_Roof_Hollow",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 0,
+      "name": "Rock_Sandstone_Red_Brick_Roof_Hollow",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 1,
+      "name": "Rock_Sandstone_Red_Brick_Roof_Hollow",
+      "rotation": 1
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Beam"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Beam"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Beam"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "z": 2,
+      "name": "Rock_Sandstone_Red_Brick_Beam"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "z": 2,
+      "name": "*Rock_Sandstone_Red_Brick_Roof_State_Definitions_Corner_Left"
+    }
+  ]
+}

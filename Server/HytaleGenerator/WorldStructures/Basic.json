@@ -2,12 +2,12 @@
   "Type": "NoiseRange",
   "Biomes": [
     {
-      "Biome": "Basic",
+      "Biome": "Thunderstorm_Biome",
       "Min": -1,
       "Max": 1
     }
   ],
-  "DefaultBiome": "Basic",
+  "DefaultBiome": "Thunderstorm_Biome",
   "DefaultTransitionDistance": 32,
   "MaxBiomeEdgeDistance": 32,
   "Density": {

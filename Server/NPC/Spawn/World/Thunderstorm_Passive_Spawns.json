@@ -25,6 +25,17 @@
     {
       "Id": "Raven",
       "Weight": 2
+    },
+    {
+      "Id": "Catfish",
+      "Weight": 6,
+      "SpawnFluidTag": "Water"
+    },
+    {
+      "Id": "Minnow",
+      "Weight": 14,
+      "SpawnFluidTag": "Water",
+      "Flock": "Group_Tiny"
     }
   ],
   "Environments": [

@@ -2,8 +2,23 @@
   "Type": "NoiseRange",
   "Biomes": [
     {
-      "Biome": "Basic",
       "Min": -1,
+      "Max": -0.66,
+      "Biome": "Thunderstorm_Biome"
+    },
+    {
+      "Biome": "Thunderstorm_Plains",
+      "Min": -0.66,
+      "Max": -0.5
+    },
+    {
+      "Min": -0.5,
+      "Max": 0,
+      "Biome": "Thunderstorm_River"
+    },
+    {
+      "Biome": "Thunderstorm_Plains",
+      "Min": 0,
       "Max": 1
     }
   ],
@@ -14,40 +29,7 @@
     "Type": "Imported",
     "Name": "Biome-Map"
   },
-  "SpawnPositions": {
-    "Type": "Imported",
-    "Name": "Spawns"
-  },
   "Framework": [
-    {
-      "Type": "Positions",
-      "Entries": [
-        {
-          "Name": "Spawns",
-          "Positions": {
-            "Type": "List",
-            "ExportAs": "Spawns",
-            "Positions": [
-              {
-                "X": 0,
-                "Y": 200,
-                "Z": 0
-              },
-              {
-                "X": 30,
-                "Y": 200,
-                "Z": 0
-              },
-              {
-                "X": 10,
-                "Y": 200,
-                "Z": 20
-              }
-            ]
-          }
-        }
-      ]
-    },
     {
       "Type": "DecimalConstants",
       "Entries": [

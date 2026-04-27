@@ -33,14 +33,14 @@
               "QuantityMin": 1,
               "QuantityMax": 5
             },
-            "Weight": 15
+            "Weight": 10
           },
           {
             "Type": "Single",
             "Item": {
               "ItemId": "Weapon_Arrow_Crude",
               "QuantityMin": 5,
-              "QuantityMax": 10
+              "QuantityMax": 15
             },
             "Weight": 10
           },
@@ -55,7 +55,7 @@
           },
           {
             "Type": "Single",
-            "Weight": 6,
+            "Weight": 8,
             "Item": {
               "ItemId": "Ingredient_Hide_Storm",
               "QuantityMin": 1,
@@ -64,7 +64,7 @@
           },
           {
             "Type": "Single",
-            "Weight": 4,
+            "Weight": 8,
             "Item": {
               "ItemId": "Ingredient_Leather_Storm",
               "QuantityMin": 1,
@@ -73,7 +73,7 @@
           },
           {
             "Type": "Single",
-            "Weight": 4,
+            "Weight": 6,
             "Item": {
               "ItemId": "Ingredient_Bar_Mithril",
               "QuantityMin": 1,
@@ -100,11 +100,11 @@
           },
           {
             "Type": "Single",
-            "Weight": 7,
+            "Weight": 10,
             "Item": {
-              "ItemId": "Ingredient_Lightning_Essence",
-              "QuantityMin": 1,
-              "QuantityMax": 5
+              "QuantityMin": 2,
+              "QuantityMax": 6,
+              "ItemId": "Ingredient_Lightning_Essence"
             }
           }
         ]
@@ -159,21 +159,7 @@
                 "Type": "Single",
                 "Weight": 10,
                 "Item": {
-                  "ItemId": "Weapon_Axe_Adamantite"
-                }
-              },
-              {
-                "Type": "Single",
-                "Weight": 10,
-                "Item": {
                   "ItemId": "Weapon_Mace_Adamantite"
-                }
-              },
-              {
-                "Type": "Single",
-                "Weight": 5,
-                "Item": {
-                  "ItemId": "Weapon_Longsword_Adamantite"
                 }
               },
               {
@@ -208,7 +194,7 @@
           },
           {
             "Type": "Choice",
-            "Weight": 5,
+            "Weight": 15,
             "Containers": [
               {
                 "Type": "Single",
@@ -250,6 +236,13 @@
                 "Weight": 10,
                 "Item": {
                   "ItemId": "Tool_Pickaxe_Mithril"
+                }
+              },
+              {
+                "Type": "Single",
+                "Weight": 6,
+                "Item": {
+                  "ItemId": "Weapon_Axe_Mithril"
                 }
               },
               {

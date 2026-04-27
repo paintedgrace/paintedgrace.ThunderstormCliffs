@@ -1,0 +1,27 @@
+{
+  "Environments": [
+    "Thunderstorm_River"
+  ],
+  "NPCs": [
+    {
+      "Id": "Catfish",
+      "Weight": 20,
+      "SpawnFluidTag": "Water"
+    },
+    {
+      "Id": "Minnow",
+      "Weight": 20,
+      "SpawnFluidTag": "Water",
+      "Flock": "Group_Small"
+    },
+    {
+      "Id": "Trilobite_Black",
+      "Weight": 10,
+      "SpawnFluidTag": "Water"
+    },
+    {
+      "Id": "Eel_Moray",
+      "Weight": 5
+    }
+  ]
+}

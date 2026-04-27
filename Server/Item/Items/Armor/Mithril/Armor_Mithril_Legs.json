@@ -31,8 +31,8 @@
         "Quantity": 6
       },
       {
-        "ItemId": "Ingredient_Void_Essence",
-        "Quantity": 60
+        "ItemId": "Ingredient_Lightning_Essence",
+        "Quantity": 30
       }
     ],
     "BenchRequirement": [
